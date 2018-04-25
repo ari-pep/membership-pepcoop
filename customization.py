@@ -2,7 +2,7 @@
 # -*- coding: utf-8  -*-
 
 #default_language='en'
-currency='€'
+currency=u'€'
 share_price=10
 max_shares=3001
 
@@ -36,7 +36,7 @@ membership_fees = [
     (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously (100 €/mon)'))
 ]
 
-# if this is a number, the user can set his own 
+# if this is a number, the user can set his own
 membership_fee_custom_min=100
 membership_fee_custom_description=_(u'Sustaining member - support pEp Cooperative with a minimum of 100 €/mon')
 
