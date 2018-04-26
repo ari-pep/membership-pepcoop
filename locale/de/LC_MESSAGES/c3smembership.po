@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: markus.lorenz@c3s.cc\n"
 "POT-Creation-Date: 2018-04-25 19:52+0200\n"
-"PO-Revision-Date: 2018-04-26 15:18+0200\n"
+"PO-Revision-Date: 2018-04-26 19:32+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -574,12 +574,12 @@ msgstr "Zunächst musst Du bitte das Formular ausfüllen. Anschließend erhälts
 #. using the following links:
 #: c3smembership/templates/join.pt:53
 msgid "join-form-nonhumans-p"
-msgstr "Die Mitgliedschaft für Unternehmen und Verbände kann über den folgenden Link beantragt werden:"
+msgstr "SOLLTE NICHT MEHR EXISTIEREN - Die Mitgliedschaft für Unternehmen und Verbände kann über den folgenden Link beantragt werden:"
 
 #. Default: Membership for Companies and Institutions
 #: c3smembership/templates/join.pt:56
 msgid "join-form-nonhumans-linktext"
-msgstr "Mitgliedschaftsantrag für Unternehmen und Vereine"
+msgstr "SOLLTE NICHT MEHR EXISTIEREN - Mitgliedschaftsantrag für Unternehmen und Vereine"
 
 #. Default: (german)
 #: c3smembership/templates/join.pt:59 c3smembership/templates/join.pt:135
@@ -678,7 +678,7 @@ msgstr "wie wir bereits per Mail erklärt haben, habt Ihr hier Gelegenheit, Teil
 
 #: c3smembership/templates/mtype-form.pt:38
 msgid "In case you are unsure, please take a look at our FAQ (see link below) or just send a mail to info@c3s.cc. However, for those of you who are curious to know more about the details, there’s a link to our statutes (see below). Be prepared to enjoy some legal talk..."
-msgstr "Falls Ihr Fragen habt, schaut bitte in unsere FAQ (siehe unten) oder schreibt an info@c3s.cc. Wer es ganz genau wissen möchte und vor juristischen Texten nicht zurückschreckt... unten geht's zur Satzung."
+msgstr "Falls Ihr Fragen habt schreibt an kontakt@pep.coop. Wer es ganz genau wissen möchte und vor juristischen Texten nicht zurückschreckt... unten geht's zur Satzung."
 
 #: c3smembership/templates/mtype-form.pt:40
 msgid "Let’s go! It’s less than five clicks, and it’s done."
