@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-25 19:52+0200\n"
+"POT-Creation-Date: 2018-04-26 21:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -962,22 +962,11 @@ msgstr ""
 msgid "Wrong Password!"
 msgstr ""
 
-#: c3smembership/views/afm.py:708
+#: c3smembership/views/afm.py:711
 msgid "Success. Load your PDF!"
 msgstr ""
 
-#: c3smembership/views/afm.py:713
+#: c3smembership/views/afm.py:716
 msgid "Please enter your password."
-msgstr ""
-
-#: c3smembership/views/afm.py:758
-msgid "[yes][ALERT] check the logs!"
-msgstr ""
-
-#. Default: message_to_user
-#: c3smembership/views/afm.py:773
-msgid ""
-"Oops. we hit a bug. Staff will be informed. We will come back to you once we "
-"fixed it!"
 msgstr ""
 

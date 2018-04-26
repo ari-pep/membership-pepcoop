@@ -29,6 +29,7 @@ locale_country_mapping = {
     'en': 'GB',
 }
 
+# convention: the last is free_form, value is minimum but can be adjusted
 membership_fees = [
     (5,'individual', _(u'Individual (5 €/mon)')),
     (20, 'small_com', _(u'Freelancer or small companie ( < 10 employees, 20 €/mon)')),

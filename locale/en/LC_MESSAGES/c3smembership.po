@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-25 19:52+0200\n"
+"POT-Creation-Date: 2018-04-26 19:42+0200\n"
 "PO-Revision-Date: 2018-04-25 00:02+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -323,139 +323,139 @@ msgstr ""
 msgid "Date of Acquisition"
 msgstr ""
 
-#: c3smembership/utils.py:19
+#: c3smembership/utils.py:20
 msgid "Austria"
 msgstr ""
 
-#: c3smembership/utils.py:20
+#: c3smembership/utils.py:21
 msgid "Belgium"
 msgstr ""
 
-#: c3smembership/utils.py:21
+#: c3smembership/utils.py:22
 msgid "Bulgaria"
 msgstr ""
 
-#: c3smembership/utils.py:22
+#: c3smembership/utils.py:23
 msgid "Switzerland"
 msgstr ""
 
-#: c3smembership/utils.py:23
+#: c3smembership/utils.py:24
 msgid "Czech Republic"
 msgstr ""
 
-#: c3smembership/utils.py:24
+#: c3smembership/utils.py:25
 msgid "Germany"
 msgstr ""
 
-#: c3smembership/utils.py:25
+#: c3smembership/utils.py:26
 msgid "Denmark"
 msgstr ""
 
-#: c3smembership/utils.py:26
+#: c3smembership/utils.py:27
 msgid "Spain"
 msgstr ""
 
-#: c3smembership/utils.py:27
+#: c3smembership/utils.py:28
 msgid "Estonia"
 msgstr ""
 
-#: c3smembership/utils.py:28
+#: c3smembership/utils.py:29
 msgid "Finland"
 msgstr ""
 
-#: c3smembership/utils.py:29
+#: c3smembership/utils.py:30
 msgid "France"
 msgstr ""
 
-#: c3smembership/utils.py:30
+#: c3smembership/utils.py:31
 msgid "United Kingdom"
 msgstr ""
 
-#: c3smembership/utils.py:31
+#: c3smembership/utils.py:32
 msgid "Greece"
 msgstr ""
 
-#: c3smembership/utils.py:32
+#: c3smembership/utils.py:33
 msgid "Hungary"
 msgstr ""
 
-#: c3smembership/utils.py:33
+#: c3smembership/utils.py:34
 msgid "Croatia"
 msgstr ""
 
-#: c3smembership/utils.py:34
+#: c3smembership/utils.py:35
 msgid "Ireland"
 msgstr ""
 
-#: c3smembership/utils.py:35
+#: c3smembership/utils.py:36
 msgid "Iceland"
 msgstr ""
 
-#: c3smembership/utils.py:36
+#: c3smembership/utils.py:37
 msgid "Italy"
 msgstr ""
 
-#: c3smembership/utils.py:37
+#: c3smembership/utils.py:38
 msgid "Lithuania"
 msgstr ""
 
-#: c3smembership/utils.py:38
+#: c3smembership/utils.py:39
 msgid "Liechtenstein"
 msgstr ""
 
-#: c3smembership/utils.py:39
+#: c3smembership/utils.py:40
 msgid "Latvia"
 msgstr ""
 
-#: c3smembership/utils.py:40
+#: c3smembership/utils.py:41
 msgid "Luxembourg"
 msgstr ""
 
-#: c3smembership/utils.py:41
+#: c3smembership/utils.py:42
 msgid "Malta"
 msgstr ""
 
-#: c3smembership/utils.py:42
+#: c3smembership/utils.py:43
 msgid "Netherlands"
 msgstr ""
 
-#: c3smembership/utils.py:43
+#: c3smembership/utils.py:44
 msgid "Norway"
 msgstr ""
 
-#: c3smembership/utils.py:44
+#: c3smembership/utils.py:45
 msgid "Poland"
 msgstr ""
 
-#: c3smembership/utils.py:45
+#: c3smembership/utils.py:46
 msgid "Portugal"
 msgstr ""
 
-#: c3smembership/utils.py:46
+#: c3smembership/utils.py:47
 msgid "Slovakia"
 msgstr ""
 
-#: c3smembership/utils.py:47
+#: c3smembership/utils.py:48
 msgid "Slovenia"
 msgstr ""
 
-#: c3smembership/utils.py:48
+#: c3smembership/utils.py:49
 msgid "Sweden"
 msgstr ""
 
-#: c3smembership/utils.py:49
+#: c3smembership/utils.py:50
 msgid "other"
 msgstr ""
 
-#: c3smembership/utils.py:55
+#: c3smembership/utils.py:56
 msgid "Deutsch"
 msgstr ""
 
-#: c3smembership/utils.py:56
+#: c3smembership/utils.py:57
 msgid "Englisch"
 msgstr ""
 
-#: c3smembership/utils.py:57
+#: c3smembership/utils.py:58
 msgid "Français"
 msgstr ""
 
@@ -992,23 +992,12 @@ msgstr ""
 msgid "Wrong Password!"
 msgstr ""
 
-#: c3smembership/views/afm.py:708
+#: c3smembership/views/afm.py:711
 msgid "Success. Load your PDF!"
 msgstr ""
 
-#: c3smembership/views/afm.py:713
+#: c3smembership/views/afm.py:716
 msgid "Please enter your password."
-msgstr ""
-
-#: c3smembership/views/afm.py:758
-msgid "[yes][ALERT] check the logs!"
-msgstr ""
-
-#. Default: message_to_user
-#: c3smembership/views/afm.py:773
-msgid ""
-"Oops. we hit a bug. Staff will be informed. We will come back to you once"
-" we fixed it!"
 msgstr ""
 
 #~ msgid "join-form-nonhumans-p"
@@ -1039,5 +1028,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "You may choose ${num} shares at most (${price} ${currency})."
+#~ msgstr ""
+
+#~ msgid "[yes][ALERT] check the logs!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Oops. we hit a bug. Staff will "
+#~ "be informed. We will come back to"
+#~ " you once we fixed it!"
 #~ msgstr ""
 
