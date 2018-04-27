@@ -41,6 +41,9 @@ membership_fees = [
 membership_fee_custom_min=100
 membership_fee_custom_description=_(u'Sustaining member - support pEp Cooperative with a minimum of 100 €/mon')
 
+payment_methods = { 'sdd': _(u'SEPA Direct Debit'),
+                   'transfer': _(u'Bank Transfer') }
+
 translations = set(('de','en',))
 
 # todo accountant mail
