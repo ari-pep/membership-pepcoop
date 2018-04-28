@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-28 15:20+0200\n"
-"PO-Revision-Date: 2018-04-28 16:17+0200\n"
+"PO-Revision-Date: 2018-04-28 16:40+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -52,7 +52,7 @@ msgid ""
 "I want to become a ... (choose membership type, see C3S SCE statute sec. 4)"
 msgstr ""
 "SOLLTE NICHT MEHR EXISTIEREN - Ich möchte ... (Art der Mitgliedschaft "
-"auswählen, siehe Satzung § 4) "
+"auswählen, siehe Satzung § 4)"
 
 #: c3smembership/administration.py:491 c3smembership/views/afm.py:196
 msgid "choose the type of membership."
@@ -555,7 +555,7 @@ msgid ""
 "support us generously as a sustaining member"
 msgstr ""
 "Mir ist bekannt, dass die Mitgliedschaft bei der p≡p coop SCE i.G. mit "
-"monatlichen Beitragspflichten verbunden ist (vgl. Beitragsordnung). "
+"monatlichen Beitragspflichten verbunden ist (vgl. Beitragsordnung)."
 
 #: c3smembership/views/afm.py:239
 msgid "custom membership fee"
@@ -650,10 +650,8 @@ msgid "Membership Fees"
 msgstr "Mitgliedschaftsbeiträge"
 
 #: c3smembership/views/afm.py:396
-#, fuzzy
-#| msgid "Payment Received"
 msgid "Payment Method"
-msgstr "Zahlung erhalten"
+msgstr "Zahlungsmethode"
 
 #: c3smembership/views/afm.py:399
 msgid "Acknowledgement"
@@ -707,7 +705,7 @@ msgid ""
 "fixed it!"
 msgstr ""
 "Uuups. Ein Fehler ist aufgetreten. Wir lassen es dich wissen wenn der Fehler "
-"behoben ist."
+"behoben ist!"
 
 #: customization/customization.py:15
 msgid ""
@@ -739,8 +737,6 @@ msgstr ""
 "Gesellschaften mit und ohne eigene Rechtspersönlichkeit"
 
 #: customization/customization.py:37
-#, fuzzy
-#| msgid "Sustaining members: You can set your fees (minimum 100 €)"
 msgid "Sustaining member: You want to help our cause generously (100 €/mon)"
 msgstr ""
 "Fördermitglied: Wähle deinen monatlichen Förderbeitrag (mindestens 100 €)"
