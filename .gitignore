@@ -108,4 +108,11 @@ venv.bak/
 .mypy_cache/
 
 # macOS 
+*/._*
 ._*
+
+# Libreoffice
+*/.~*
+.~*
+
+
