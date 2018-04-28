@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-28 15:20+0200\n"
-"PO-Revision-Date: 2018-04-28 16:02+0200\n"
+"PO-Revision-Date: 2018-04-28 16:17+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -254,7 +254,7 @@ msgstr "Mitgliedskategorie"
 
 #: c3smembership/edit_member.py:330
 msgid "Please choose the member category."
-msgstr "Bitte wähle eine Mitgliedskategorie"
+msgstr "Bitte wähle eine Mitgliedskategorie."
 
 #: c3smembership/edit_member.py:333
 msgid "Person"
@@ -592,15 +592,15 @@ msgstr "Du darfst höchstens 3001 Anteile auswählen (30010 €)."
 
 #: c3smembership/views/afm.py:277
 msgid "Please tell us how you want to pay"
-msgstr ""
+msgstr "Wie willst du bzahlen? Per"
 
 #: c3smembership/views/afm.py:299
 msgid "member's bank account (IBAN)"
-msgstr ""
+msgstr "IBAN"
 
 #: c3smembership/views/afm.py:305
 msgid "member's bank (BIC)"
-msgstr ""
+msgstr "BIC"
 
 #: c3smembership/views/afm.py:329
 msgid ""
@@ -699,7 +699,7 @@ msgstr "Bitte das Passwort eingeben."
 
 #: c3smembership/views/afm.py:809
 msgid "[yes][ALERT] check the logs!"
-msgstr "[yes][ALERT] Prüfe die Log-Dateien!"
+msgstr "[p≡p coop][ALERT] Prüfe die Log-Dateien!"
 
 #: c3smembership/views/afm.py:825
 msgid ""
@@ -724,15 +724,19 @@ msgstr ""
 
 #: customization/customization.py:34
 msgid "Individual (5 €/mon)"
-msgstr ""
+msgstr "Natürliche Personen (5 €/mon)"
 
 #: customization/customization.py:35
 msgid "Freelancer or small companie ( < 10 employees, 20 €/mon)"
 msgstr ""
+"Firmen, Gewerbetreibende und Freiberufler mit bis zu 10 Mitarbeitern "
+"(Kopfzahl)"
 
 #: customization/customization.py:36
 msgid "Companies (>= 10 employees) and high-income freelancers (50 €/mon)"
 msgstr ""
+"Alle anderenFirmen, Gewerbetreibenden, Freiberufler, juristische Personen, "
+"Gesellschaften mit und ohne eigene Rechtspersönlichkeit"
 
 #: customization/customization.py:37
 #, fuzzy
@@ -750,11 +754,11 @@ msgstr ""
 
 #: customization/customization.py:44
 msgid "SEPA Direct Debit"
-msgstr ""
+msgstr "Lastschrift"
 
 #: customization/customization.py:45
 msgid "Bank Transfer"
-msgstr ""
+msgstr "Überweisung"
 
 #~ msgid "membership-form-title"
 #~ msgstr "Mitgliedsantrag für die p≡p coop SCE"
