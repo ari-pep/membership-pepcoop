@@ -112,7 +112,4 @@ venv.bak/
 ._*
 
 # Libreoffice
-*/.~*
-.~*
-
-
+*.~lock.*
