@@ -499,7 +499,7 @@ msgstr ""
 #: c3smembership/views/afm.py:175
 msgid ""
 "Unfortunately, the membership application of an underaged person is currently not "
-"possible via our web form. Please send an email to office@c3s.cc."
+"possible via our web form. Please send an email to members-admin@pep.coop."
 msgstr ""
 
 #: c3smembership/views/afm.py:216
