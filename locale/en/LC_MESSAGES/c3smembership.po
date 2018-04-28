@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-28 15:20+0200\n"
-"PO-Revision-Date: 2018-04-28 15:21+0200\n"
+"PO-Revision-Date: 2018-04-28 15:59+0200\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -502,6 +502,9 @@ msgid ""
 "currently not possible via our web form. Please send an email to office@c3s."
 "cc."
 msgstr ""
+"Unfortunately, the membership application of an underaged person is "
+"currently not possible via our web form. Please send an email to members-"
+"admin@pep.coop."
 
 #: c3smembership/views/afm.py:216
 msgid ""
@@ -587,6 +590,8 @@ msgid ""
 "An electronic copy of the temporary membership dues regulations of the C3S "
 "SCE has been made available to me (see link below)."
 msgstr ""
+"An electronic copy of the temporary membership dues regulations of the p≡p "
+"coop SCE has been made available to me (see link below)."
 
 #: c3smembership/views/afm.py:360
 msgid ""
@@ -649,7 +654,7 @@ msgstr ""
 
 #: c3smembership/views/afm.py:809
 msgid "[yes][ALERT] check the logs!"
-msgstr ""
+msgstr "[pEp coop][ALERT] check the logs!"
 
 #: c3smembership/views/afm.py:825
 msgid ""
