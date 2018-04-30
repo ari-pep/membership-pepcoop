@@ -5,3 +5,4 @@
 membership_fees = []
 
 from customization import *
+registration_fee = 0

@@ -29,12 +29,14 @@ locale_country_mapping = {
     'en': 'GB',
 }
 
+entry_fee = True
 # convention: the last is free_form, value is minimum but can be adjusted
+# regularly fee, type_identifier, type_description, entry_fee
 membership_fees = [
-    (5,'individual', _(u'Individual (5 €/mon)')),
-    (20, 'small_com', _(u'Freelancer or small companie ( < 10 employees, 20 €/mon)')),
-    (50, 'big_com', _(u'Companies (>= 10 employees) and high-income freelancers (50 €/mon)')),
-    (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously (100 €/mon)'))
+    (5,'individual', _(u'Individual (5 €/mon)'),0),
+    (20, 'small_com', _(u'Freelancer or small companie ( < 10 employees, 20 €/mon)'),90),
+    (50, 'big_com', _(u'Companies (>= 10 employees) and high-income freelancers (50 €/mon)'),90),
+    (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously (100 €/mon)'),0)
 ]
 
 # if this is a number, the user can set his own
