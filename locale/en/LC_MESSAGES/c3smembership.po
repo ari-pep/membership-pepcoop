@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-30 15:27+0200\n"
-"PO-Revision-Date: 2018-04-30 17:35+0200\n"
+"PO-Revision-Date: 2018-04-30 18:39+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -906,12 +906,9 @@ msgid "Please tell us which collecting societies you are a member of. If more th
 msgstr ""
 
 #: c3smembership/views/afm.py:229
-#, fuzzy
-#| msgid "" "Please tell us wether you're an individual, freelancer or company
-#| or want" " to support us generously as a sustaining member"
 msgid "Please tell us wether you're an individual, freelancer or company, or want to support us generously as a supporting member.\n"
 "Please be advised that freelancers/companies are suspect to an entry fee of 90 €."
-msgstr "I am aware that the  membership in the p≡p coop SCE i.G. entails monthly fees explicated in our Membership Due Regulations"
+msgstr "I am aware that the membership in the p≡p coop SCE i.G. entails monthly fees explicated in our Membership Due Regulations"
 
 #: c3smembership/views/afm.py:240
 msgid "custom membership fee"
