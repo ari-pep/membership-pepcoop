@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-28 15:20+0200\n"
+"POT-Creation-Date: 2018-04-30 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,9 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: c3smembership/administration.py:489 c3smembership/views/afm.py:194
-msgid "I want to become a ... (choose membership type, see C3S SCE statute sec. 4)"
+#: c3smembership/administration.py:489
+msgid ""
+"I want to become a ... (choose membership type, see p≡p coop SCE statute sec. 4)"
 msgstr ""
 
 #: c3smembership/administration.py:491 c3smembership/views/afm.py:196
@@ -59,15 +60,15 @@ msgstr ""
 #: c3smembership/administration.py:495
 msgid ""
 "FULL member. Full members have to be natural persons who register at least three "
-"works with C3S they created themselves. This applies to composers, lyricists and "
-"remixers. They get a vote."
+"works with p≡p coop they created themselves. This applies to composers, lyricists "
+"and remixers. They get a vote."
 msgstr ""
 
 #: c3smembership/administration.py:500
 msgid ""
 "INVESTING member. Investing members can be natural or legal entities or private "
-"companies that do not register works with C3S. They do not get a vote, but may "
-"counsel."
+"companies that do not register works with p≡p coop. They do not get a vote, but "
+"may counsel."
 msgstr ""
 
 #: c3smembership/administration.py:511 c3smembership/views/afm.py:207
@@ -502,6 +503,11 @@ msgid ""
 "possible via our web form. Please send an email to members-admin@pep.coop."
 msgstr ""
 
+#: c3smembership/views/afm.py:194
+msgid ""
+"I want to become a ... (choose membership type, see p≡p coop SCE statute sec. 5)"
+msgstr ""
+
 #: c3smembership/views/afm.py:216
 msgid "If so, which one(s)? Please separate multiple collecting societies by comma."
 msgstr ""
@@ -532,12 +538,12 @@ msgstr ""
 
 #: c3smembership/views/afm.py:258
 msgid ""
-"I want to buy the following number of Shares (50 € each, up to 3000 €, see C3S "
-"statute sec. 5)"
+"I want to buy the following number of Shares (10 € each, up to 3001 shares, see "
+"p≡p coop statute sec. 5)"
 msgstr ""
 
 #: c3smembership/views/afm.py:262
-msgid "You can choose any amount of shares between 1 and 60."
+msgid "You can choose any amount of shares between 1 and 3001."
 msgstr ""
 
 #: c3smembership/views/afm.py:269

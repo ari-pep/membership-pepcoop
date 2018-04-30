@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-28 15:20+0200\n"
-"PO-Revision-Date: 2018-04-28 17:25+0200\n"
+"POT-Creation-Date: 2018-04-30 12:17+0200\n"
+"PO-Revision-Date: 2018-04-30 12:17+0200\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -47,9 +47,14 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: c3smembership/administration.py:489 c3smembership/views/afm.py:194
+#: c3smembership/administration.py:489
+#, fuzzy
+#| msgid ""
+#| "I want to become a ... (choose membership type, see C3S SCE statute sec. "
+#| "4)"
 msgid ""
-"I want to become a ... (choose membership type, see C3S SCE statute sec. 4)"
+"I want to become a ... (choose membership type, see p≡p coop SCE statute "
+"sec. 4)"
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:491 c3smembership/views/afm.py:196
@@ -57,17 +62,27 @@ msgid "choose the type of membership."
 msgstr ""
 
 #: c3smembership/administration.py:495
+#, fuzzy
+#| msgid ""
+#| "FULL member. Full members have to be natural persons who register at "
+#| "least three works with C3S they created themselves. This applies to "
+#| "composers, lyricists and remixers. They get a vote."
 msgid ""
 "FULL member. Full members have to be natural persons who register at least "
-"three works with C3S they created themselves. This applies to composers, "
-"lyricists and remixers. They get a vote."
+"three works with p≡p coop they created themselves. This applies to "
+"composers, lyricists and remixers. They get a vote."
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:500
+#, fuzzy
+#| msgid ""
+#| "INVESTING member. Investing members can be natural or legal entities or "
+#| "private companies that do not register works with C3S. They do not get a "
+#| "vote, but may counsel."
 msgid ""
 "INVESTING member. Investing members can be natural or legal entities or "
-"private companies that do not register works with C3S. They do not get a "
-"vote, but may counsel."
+"private companies that do not register works with p≡p coop. They do not get "
+"a vote, but may counsel."
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:511 c3smembership/views/afm.py:207
@@ -497,14 +512,29 @@ msgid "Sorry, we do not believe that you are that old"
 msgstr ""
 
 #: c3smembership/views/afm.py:175
+#, fuzzy
+#| msgid ""
+#| "Unfortunately, the membership application of an underaged person is "
+#| "currently not possible via our web form. Please send an email to "
+#| "office@c3s.cc."
 msgid ""
 "Unfortunately, the membership application of an underaged person is "
-"currently not possible via our web form. Please send an email to office@c3s."
-"cc."
+"currently not possible via our web form. Please send an email to members-"
+"admin@pep.coop."
 msgstr ""
 "Unfortunately, the membership application of an underaged person is "
 "currently not possible via our web form. Please send an email to members-"
 "admin@pep.coop."
+
+#: c3smembership/views/afm.py:194
+#, fuzzy
+#| msgid ""
+#| "I want to become a ... (choose membership type, see C3S SCE statute sec. "
+#| "4)"
+msgid ""
+"I want to become a ... (choose membership type, see p≡p coop SCE statute "
+"sec. 5)"
+msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/views/afm.py:216
 msgid ""
@@ -538,15 +568,21 @@ msgid "please enter at least the minimum fee for sustaining members"
 msgstr ""
 
 #: c3smembership/views/afm.py:258
+#, fuzzy
+#| msgid ""
+#| "I want to buy the following number of Shares (50 € each, up to 3000 €, "
+#| "see C3S statute sec. 5)"
 msgid ""
-"I want to buy the following number of Shares (50 € each, up to 3000 €, see "
-"C3S statute sec. 5)"
+"I want to buy the following number of Shares (10 € each, up to 3001 shares, "
+"see p≡p coop statute sec. 5)"
 msgstr ""
 "I want to buy the following number of Shares (10 € each, up to 3001 shares, "
 "see p≡p coop SCE statute sec. 6):"
 
 #: c3smembership/views/afm.py:262
-msgid "You can choose any amount of shares between 1 and 60."
+#, fuzzy
+#| msgid "You can choose any amount of shares between 1 and 60."
+msgid "You can choose any amount of shares between 1 and 3001."
 msgstr "You can choose any amount of shares between 1 and 3001."
 
 #: c3smembership/views/afm.py:269
@@ -580,6 +616,8 @@ msgid ""
 "An electronic copy of the statute of the C3S SCE has been made available to "
 "me (see link below)."
 msgstr ""
+"An electronic copy of the statute of the p≡p coop SCE has been made "
+"available to me (see link below)."
 
 #: c3smembership/views/afm.py:336
 msgid "You must confirm to have access to the statute."
