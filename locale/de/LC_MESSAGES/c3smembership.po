@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-30 17:12+0200\n"
-"PO-Revision-Date: 2018-04-30 18:55+0200\n"
+"PO-Revision-Date: 2018-04-30 19:40+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -934,7 +934,7 @@ msgstr "Du darfst höchstens 3001 Anteile auswählen (30010 €)."
 
 #: c3smembership/views/afm.py:278
 msgid "Please tell us how you want to pay"
-msgstr "Wie willst du bzahlen? Per"
+msgstr "Wie möchtest du bezahlen? Per"
 
 #: c3smembership/views/afm.py:306
 msgid "member's bank account (IBAN)"
