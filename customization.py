@@ -39,6 +39,8 @@ membership_fees = [
     (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously (100 €/mon)'),0)
 ]
 
+company_types = ['small_com', 'big_com']
+
 # if this is a number, the user can set his own
 membership_fee_custom_min=100
 membership_fee_custom_description=_(u'Sustaining member - support pEp Cooperative with a minimum of 100 €/mon')
