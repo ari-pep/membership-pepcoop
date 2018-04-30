@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-30 17:12+0200\n"
-"PO-Revision-Date: 2018-04-30 19:40+0200\n"
+"PO-Revision-Date: 2018-04-30 20:02+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -731,9 +731,8 @@ msgid "Payment Type"
 msgstr "Zahlungsmethode"
 
 #: c3smembership/templates/success.pt:80
-#, fuzzy
 msgid "Initially Due"
-msgstr "Initially Due"
+msgstr "Einmalig (Genossenschaftsanteil(e) plus Eintrittsgeld)"
 
 #: c3smembership/templates/success.pt:81
 msgid "Monthly Dues"
@@ -945,10 +944,8 @@ msgid "member's bank (BIC)"
 msgstr "BIC"
 
 #: c3smembership/views/afm.py:319
-#, fuzzy
-#| msgid "member's bank (BIC)"
 msgid "member's bank's name"
-msgstr "BIC"
+msgstr "Name der Bank"
 
 #: c3smembership/views/afm.py:341
 msgid "I acknowledge that the statutes and membership dues regulations determine periodic contributions for full members."
@@ -992,15 +989,15 @@ msgstr "Weiter"
 
 #: c3smembership/views/afm.py:440
 msgid "please enter IBAN"
-msgstr ""
+msgstr "bitte gib die IBAN an"
 
 #: c3smembership/views/afm.py:443
 msgid "please enter BIC"
-msgstr ""
+msgstr "bitte gib den IBAN an"
 
 #: c3smembership/views/afm.py:446
 msgid "please enter bank's name"
-msgstr ""
+msgstr "bitte gib den Namen der Bank an"
 
 #: c3smembership/views/afm.py:476
 msgid "Please re-enter your password."
