@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-30 17:12+0200\n"
+"POT-Creation-Date: 2018-04-30 19:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 
 #: c3smembership/accountants_views.py:84 c3smembership/administration.py:532
-#: c3smembership/annual_accounting.py:71 c3smembership/edit_member.py:498
+#: c3smembership/annual_accounting.py:72 c3smembership/edit_member.py:498
 #: c3smembership/shares_views.py:93
 msgid "Submit"
 msgstr ""
 
 #: c3smembership/accountants_views.py:85 c3smembership/administration.py:533
-#: c3smembership/edit_member.py:499 c3smembership/views/afm.py:421
+#: c3smembership/edit_member.py:499
 msgid "Reset"
 msgstr ""
 
 #: c3smembership/accountants_views.py:96 c3smembership/administration.py:556
-#: c3smembership/annual_accounting.py:89 c3smembership/edit_member.py:529
-#: c3smembership/shares_views.py:105 c3smembership/views/afm.py:464
+#: c3smembership/annual_accounting.py:90 c3smembership/edit_member.py:529
+#: c3smembership/shares_views.py:105 c3smembership/views/afm.py:463
 msgid "Please note: There were errors, please check the form below."
 msgstr ""
 
@@ -555,7 +555,7 @@ msgstr ""
 
 #. Default: p≡p coop: confirm your email
 #. Default: p≡p coop: confirm your email address and load your PDF
-#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:635
+#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:634
 msgid "check-email-paragraph-check-email-subject"
 msgstr ""
 
@@ -721,6 +721,10 @@ msgstr ""
 
 #: c3smembership/templates/success.pt:70
 msgid "Member Type"
+msgstr ""
+
+#: c3smembership/templates/success.pt:71
+msgid "Entry Fee"
 msgstr ""
 
 #: c3smembership/templates/success.pt:73 c3smembership/views/afm.py:398
@@ -1007,50 +1011,50 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-#: c3smembership/views/afm.py:440
+#: c3smembership/views/afm.py:439
 msgid "please enter IBAN"
 msgstr ""
 
-#: c3smembership/views/afm.py:443
+#: c3smembership/views/afm.py:442
 msgid "please enter BIC"
 msgstr ""
 
-#: c3smembership/views/afm.py:446
+#: c3smembership/views/afm.py:445
 msgid "please enter bank's name"
 msgstr ""
 
-#: c3smembership/views/afm.py:476
+#: c3smembership/views/afm.py:475
 msgid "Please re-enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:712
+#: c3smembership/views/afm.py:711
 msgid "Your email, password, or confirmation code could not be found"
 msgstr ""
 
-#: c3smembership/views/afm.py:727
+#: c3smembership/views/afm.py:726
 msgid ""
 "Not found. Check verification URL. If all seems right, please use the form "
 "again."
 msgstr ""
 
-#: c3smembership/views/afm.py:742
+#: c3smembership/views/afm.py:741
 msgid "Wrong Password!"
 msgstr ""
 
-#: c3smembership/views/afm.py:803
+#: c3smembership/views/afm.py:802
 msgid "Success. Load your PDF!"
 msgstr ""
 
-#: c3smembership/views/afm.py:808
+#: c3smembership/views/afm.py:807
 msgid "Please enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:854
+#: c3smembership/views/afm.py:853
 msgid "[yes][ALERT] check the logs!"
 msgstr ""
 
 #. Default: message_to_user
-#: c3smembership/views/afm.py:869
+#: c3smembership/views/afm.py:868
 msgid ""
 "Oops. we hit a bug. Staff will be informed. We will come back to you once we "
 "fixed it!"
