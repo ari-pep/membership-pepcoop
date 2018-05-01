@@ -8,32 +8,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-30 15:27+0200\n"
+"POT-Creation-Date: 2018-05-01 12:33+0200\n"
 "PO-Revision-Date: 2018-04-30 18:39+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"X-Generator: Poedit 2.0.7\n"
 
 #: c3smembership/accountants_views.py:84 c3smembership/administration.py:532
-#: c3smembership/annual_accounting.py:71 c3smembership/edit_member.py:498
+#: c3smembership/annual_accounting.py:72 c3smembership/edit_member.py:498
 #: c3smembership/shares_views.py:93
 msgid "Submit"
 msgstr ""
 
 #: c3smembership/accountants_views.py:85 c3smembership/administration.py:533
-#: c3smembership/edit_member.py:499 c3smembership/views/afm.py:421
+#: c3smembership/edit_member.py:499
 msgid "Reset"
 msgstr ""
 
 #: c3smembership/accountants_views.py:96 c3smembership/administration.py:556
-#: c3smembership/annual_accounting.py:89 c3smembership/edit_member.py:529
-#: c3smembership/shares_views.py:105 c3smembership/views/afm.py:464
+#: c3smembership/annual_accounting.py:90 c3smembership/edit_member.py:529
+#: c3smembership/shares_views.py:105 c3smembership/views/afm.py:463
 msgid "Please note: There were errors, please check the form below."
 msgstr ""
 
@@ -49,7 +48,9 @@ msgstr ""
 
 #: c3smembership/administration.py:479
 #, fuzzy
-msgid "I want to become a ... (choose membership type, see p≡p coop SCE statute sec. 4)"
+msgid ""
+"I want to become a ... (choose membership type, see p≡p coop SCE statute "
+"sec. 4)"
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:481 c3smembership/views/afm.py:196
@@ -58,12 +59,18 @@ msgstr ""
 
 #: c3smembership/administration.py:485
 #, fuzzy
-msgid "FULL member. Full members have to be natural persons who register at least three works with p≡p coop they created themselves. This applies to composers, lyricists and remixers. They get a vote."
+msgid ""
+"FULL member. Full members have to be natural persons who register at "
+"least three works with p≡p coop they created themselves. This applies to "
+"composers, lyricists and remixers. They get a vote."
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:490
 #, fuzzy
-msgid "INVESTING member. Investing members can be natural or legal entities or private companies that do not register works with p≡p coop. They do not get a vote, but may counsel."
+msgid ""
+"INVESTING member. Investing members can be natural or legal entities or "
+"private companies that do not register works with p≡p coop. They do not "
+"get a vote, but may counsel."
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/administration.py:500 c3smembership/views/afm.py:206
@@ -75,7 +82,9 @@ msgid "If so, which one(s)? (comma separated)"
 msgstr ""
 
 #: c3smembership/administration.py:510
-msgid "Please tell us which collecting societies you are a member of. If more than one, please separate them by comma(s)."
+msgid ""
+"Please tell us which collecting societies you are a member of. If more "
+"than one, please separate them by comma(s)."
 msgstr ""
 
 #: c3smembership/administration.py:524 c3smembership/edit_member.py:440
@@ -300,11 +309,15 @@ msgid "Membership Bureaucracy"
 msgstr ""
 
 #: c3smembership/edit_member.py:453
-msgid "The membership loss type 'death' is only allowed for natural person members and not for legal entity members."
+msgid ""
+"The membership loss type 'death' is only allowed for natural person "
+"members and not for legal entity members."
 msgstr ""
 
 #: c3smembership/edit_member.py:474
-msgid "The membership loss type 'winding-up' is only allowed for legal entity members and not for natural person members."
+msgid ""
+"The membership loss type 'winding-up' is only allowed for legal entity "
+"members and not for natural person members."
 msgstr ""
 
 #: c3smembership/shares_views.py:84 c3smembership/templates/success.pt:75
@@ -487,13 +500,15 @@ msgstr ""
 #: c3smembership/templates/base.pt:7
 #: c3smembership/templates/base_bootstrap.pt:7
 msgid "membership-form-title"
-msgstr "Membership Application for p≡p coop SCE mit beschränkter Haftung (with limited liabilities) i.G."
+msgstr ""
+"Membership Application for p≡p coop SCE mit beschränkter Haftung (with "
+"limited liabilities) i.G."
 
-#: c3smembership/templates/base_bootstrap.pt:51
+#: c3smembership/templates/base_bootstrap.pt:49
 msgid "Contact"
 msgstr ""
 
-#: c3smembership/templates/base_bootstrap.pt:54
+#: c3smembership/templates/base_bootstrap.pt:52
 msgid "Imprint"
 msgstr ""
 
@@ -543,7 +558,9 @@ msgstr "An email was sent,"
 #. Please check your email!
 #: c3smembership/templates/check-mail.pt:58
 msgid "check-email-paragraph-check-email"
-msgstr "You will receive an email from members-admin@pep.coop with a link. Please check your email!"
+msgstr ""
+"You will receive an email from members-admin@pep.coop with a link. Please"
+" check your email!"
 
 #. Default: The email subject line will read:
 #: c3smembership/templates/check-mail.pt:63
@@ -552,11 +569,11 @@ msgstr "The email subject line will read:"
 
 #. Default: p≡p coop: confirm your email
 #. Default: p≡p coop: confirm your email address and load your PDF
-#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:635
+#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:637
 msgid "check-email-paragraph-check-email-subject"
 msgstr "p≡p coop: confirm your email"
 
-#. Default: Join the p≡p coop SCE
+#. Default: Join now!
 #. Default: Join p≡p coop
 #: c3smembership/templates/join.pt:24
 #: c3smembership/templates/verify_password.pt:9
@@ -574,7 +591,9 @@ msgstr "join-form-headline"
 #. verification code.
 #: c3smembership/templates/join.pt:49
 msgid "join-form-fill-verify-print-send"
-msgstr "Please fill out the form. Later, you need to check your email for a verification code."
+msgstr ""
+"Please fill out the form. Later, you need to check your email for a "
+"verification code."
 
 #. Default: Should you not follow through with the application process and
 #. neither
@@ -586,8 +605,13 @@ msgstr "Please fill out the form. Later, you need to check your email for a veri
 #. data after 6 month at the latest.
 #: c3smembership/templates/join.pt:52
 msgid "join-form-delete"
-msgstr "Should you not follow through with the application process and neither send us the form via postal service nor pay for the share(s), we will delete your data after 6 month at the latest.\n"
-"Should you not follow through with the application process or should you not pay for the share(s), we will delete your data after 6 month at the latest."
+msgstr ""
+"Should you not follow through with the application process and neither "
+"send us the form via postal service nor pay for the share(s), we will "
+"delete your data after 6 month at the latest.\n"
+"Should you not follow through with the application process or should you "
+"not pay for the share(s), we will delete your data after 6 month at the "
+"latest."
 
 #. Default: The Fine Print
 #: c3smembership/templates/join.pt:108 c3smembership/templates/mtype-form.pt:67
@@ -650,18 +674,28 @@ msgstr "Disclaimer (Data Protection)"
 #. authority: C3S SCE, Rochusstraße 44, 40479 Düsseldorf.
 #: c3smembership/templates/join.pt:152 c3smembership/templates/mtype-form.pt:90
 msgid "join-form-disclaimer-paragraph"
-msgstr "We  will store and use the information you provide for administrative  purposes. Responsible  authority: p≡p coop SCE mbH i.G., Wittestr. 30E, 13509 Berlin."
+msgstr ""
+"We  will store and use the information you provide for administrative  "
+"purposes. Responsible  authority: p≡p coop SCE mbH i.G., Wittestr. 30E, "
+"13509 Berlin."
 
 #: c3smembership/templates/mtype-form.pt:32
 msgid "Dear supporters,"
 msgstr ""
 
 #: c3smembership/templates/mtype-form.pt:35
-msgid "as mentioned in our mail we would like to give you the opportunity to add some information to your C3S account. We need your help so we can tell if you are eligible to vote or not."
+msgid ""
+"as mentioned in our mail we would like to give you the opportunity to add"
+" some information to your C3S account. We need your help so we can tell "
+"if you are eligible to vote or not."
 msgstr ""
 
 #: c3smembership/templates/mtype-form.pt:38
-msgid "In case you are unsure, please take a look at our FAQ (see link below) or just send a mail to info@c3s.cc. However, for those of you who are curious to know more about the details, there’s a link to our statutes (see below). Be prepared to enjoy some legal talk..."
+msgid ""
+"In case you are unsure, please take a look at our FAQ (see link below) or"
+" just send a mail to info@c3s.cc. However, for those of you who are "
+"curious to know more about the details, there’s a link to our statutes "
+"(see below). Be prepared to enjoy some legal talk..."
 msgstr ""
 
 #: c3smembership/templates/mtype-form.pt:40
@@ -681,7 +715,9 @@ msgid "That’s it. Thank you for helping out."
 msgstr ""
 
 #: c3smembership/templates/mtype-thanks.pt:24
-msgid "We are looking forward to welcome you to our first general assembly on 23 August in Cologne, Germany."
+msgid ""
+"We are looking forward to welcome you to our first general assembly on 23"
+" August in Cologne, Germany."
 msgstr ""
 
 #: c3smembership/templates/mtype-thanks.pt:27
@@ -703,7 +739,10 @@ msgstr "p≡p coop Membership Application"
 #. data, print out the form, sign it and send it back to us.
 #: c3smembership/templates/success.pt:50
 msgid "success-paragraph-thanks"
-msgstr "What happens next: You need to check the information below to be correct, receive an email to verify your address, download the form with your data, print out the form, sign it and send it back to us."
+msgstr ""
+"What happens next: You need to check the information below to be correct,"
+" receive an email to verify your address, download the form with your "
+"data, print out the form, sign it and send it back to us."
 
 #. Default: Your data we received
 #: c3smembership/templates/success.pt:56
@@ -716,6 +755,10 @@ msgstr ""
 
 #: c3smembership/templates/success.pt:70
 msgid "Member Type"
+msgstr ""
+
+#: c3smembership/templates/success.pt:71
+msgid "Entry Fee"
 msgstr ""
 
 #: c3smembership/templates/success.pt:73 c3smembership/views/afm.py:398
@@ -768,7 +811,9 @@ msgstr ""
 #. the next step.
 #: c3smembership/templates/success.pt:97
 msgid "success-paragraph-all-correct"
-msgstr "If all information above is correct please verify your email address in the next step."
+msgstr ""
+"If all information above is correct please verify your email address in "
+"the next step."
 
 #. Default: Verify your email address
 #: c3smembership/templates/success.pt:101
@@ -780,8 +825,11 @@ msgstr "Verify your email address"
 #. application form. This needs to be printed out, signed, and sent back to us.
 #: c3smembership/templates/success.pt:104
 msgid "success-paragraph-verify-email"
-msgstr "Click the button to have an email sent to your email address. \n"
-"Then check your email and use the link which we send you to get your membership application form. This needs to be printed out, signed, and sent back to us."
+msgstr ""
+"Click the button to have an email sent to your email address. \n"
+"Then check your email and use the link which we send you to get your "
+"membership application form. This needs to be printed out, signed, and "
+"sent back to us."
 
 #: c3smembership/templates/success.pt:112
 msgid "Send verification email"
@@ -820,7 +868,9 @@ msgstr "Load your PDF…"
 #. these steps in order to finish the membership application process:
 #: c3smembership/templates/verify_password.pt:95
 msgid "load-pdf-follow-steps"
-msgstr "Thank you for successfully verifying your email address. Please follow these steps in order to finish the membership application process:"
+msgstr ""
+"Thank you for successfully verifying your email address. Please follow "
+"these steps in order to finish the membership application process:"
 
 #. Default: Download and print the membership application form.
 #: c3smembership/templates/verify_password.pt:102
@@ -834,7 +884,11 @@ msgstr "Download and print the membership application form."
 #. 'Save as...' and choose a location.
 #: c3smembership/templates/verify_password.pt:113
 msgid "load-pdf-download-instructions"
-msgstr "Some browsers and PDF viewers (or browser plugins) can cause problems loading and displaying your form. If you do *not* get a PDF download when clicking the following link, try *right-clicking* the link above and choose ‘Save as…’ and choose a location."
+msgstr ""
+"Some browsers and PDF viewers (or browser plugins) can cause problems "
+"loading and displaying your form. If you do *not* get a PDF download when"
+" clicking the following link, try *right-clicking* the link above and "
+"choose ‘Save as…’ and choose a location."
 
 #. Default: Read the membership application form carefully.
 #: c3smembership/templates/verify_password.pt:122
@@ -846,7 +900,9 @@ msgstr "Read the membership application form carefully."
 #. date on it as well.
 #: c3smembership/templates/verify_password.pt:125
 msgid "load-pdf-sign-form"
-msgstr "Sign the membership application form and don’t forget to write city and date on it as well."
+msgstr ""
+"Sign the membership application form and don’t forget to write city and "
+"date on it as well."
 
 #. Default: Send the signed membership application form to us via postal mail.
 #. The
@@ -857,13 +913,19 @@ msgstr "Sign the membership application form and don’t forget to write city an
 #. paper.
 #: c3smembership/templates/verify_password.pt:129
 msgid "load-pdf-send-form"
-msgstr "Send the signed membership application form to us via postal mail. The postal address is written on the form. Unfortunately, we cannot accept (digital) copies due to legal requirements. We need your original signature on physical paper."
+msgstr ""
+"Send the signed membership application form to us via postal mail. The "
+"postal address is written on the form. Unfortunately, we cannot accept "
+"(digital) copies due to legal requirements. We need your original "
+"signature on physical paper."
 
 #. Default: Transfer the money for your shares to us. The bank account and
 #. reference code are stated on the form.
 #: c3smembership/templates/verify_password.pt:136
 msgid "load-pdf-send-money"
-msgstr "Transfer the money for your shares to us. The bank account and reference code are stated on the form."
+msgstr ""
+"Transfer the money for your shares to us. The bank account and reference "
+"code are stated on the form."
 
 #. Default: We will confirm receiving your membership application and money
 #. transfer each with a notification email. Afterwards, the administrative
@@ -873,14 +935,19 @@ msgstr "Transfer the money for your shares to us. The bank account and reference
 #. you will be sent a membership certificate.
 #: c3smembership/templates/verify_password.pt:141
 msgid "load-pdf-notification"
-msgstr "We will confirm receiving your membership application and money transfer each with a notification email. Afterwards, its following meeting. Upon your acceptance you will be sent a membership certificate."
+msgstr ""
+"We will confirm receiving your membership application and money transfer "
+"each with a notification email. Afterwards, its following meeting. Upon "
+"your acceptance you will be sent a membership certificate."
 
 #: c3smembership/views/afm.py:128
 msgid "Password (to protect access to your data)"
 msgstr ""
 
 #: c3smembership/views/afm.py:129
-msgid "We need a password to protect your data. After verifying your email you will have to enter it."
+msgid ""
+"We need a password to protect your data. After verifying your email you "
+"will have to enter it."
 msgstr ""
 
 #: c3smembership/views/afm.py:173
@@ -889,26 +956,43 @@ msgstr ""
 
 #: c3smembership/views/afm.py:174
 #, fuzzy
-msgid "Unfortunately, the membership application of an underaged person is currently not possible via our web form. Please send an email to members-admin@pep.coop."
-msgstr "Unfortunately, the membership application of an underaged person is currently not possible via our web form. Please send an email to members-admin@pep.coop."
+msgid ""
+"Unfortunately, the membership application of an underaged person is "
+"currently not possible via our web form. Please send an email to members-"
+"admin@pep.coop."
+msgstr ""
+"Unfortunately, the membership application of an underaged person is "
+"currently not possible via our web form. Please send an email to members-"
+"admin@pep.coop."
 
 #: c3smembership/views/afm.py:194
 #, fuzzy
-msgid "I want to become a ... (choose membership type, see p≡p coop SCE statute sec. 5)"
+msgid ""
+"I want to become a ... (choose membership type, see p≡p coop SCE statute "
+"sec. 5)"
 msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
 
 #: c3smembership/views/afm.py:216
-msgid "If so, which one(s)? Please separate multiple collecting societies by comma."
+msgid ""
+"If so, which one(s)? Please separate multiple collecting societies by "
+"comma."
 msgstr ""
 
 #: c3smembership/views/afm.py:218
-msgid "Please tell us which collecting societies you are a member of. If more than one, please separate them by comma."
+msgid ""
+"Please tell us which collecting societies you are a member of. If more "
+"than one, please separate them by comma."
 msgstr ""
 
 #: c3smembership/views/afm.py:229
-msgid "Please tell us wether you're an individual, freelancer or company, or want to support us generously as a supporting member.\n"
-"Please be advised that freelancers/companies are suspect to an entry fee of 90 €."
-msgstr "I am aware that the membership in the p≡p coop SCE i.G. entails monthly fees explicated in our Membership Due Regulations"
+msgid ""
+"Please tell us wether you're an individual, freelancer or company, or "
+"want to support us generously as a supporting member.\n"
+"Please be advised that freelancers/companies are suspect to an entry fee "
+"of 90 €."
+msgstr ""
+"I am aware that the membership in the p≡p coop SCE i.G. entails monthly "
+"fees explicated in our Membership Due Regulations"
 
 #: c3smembership/views/afm.py:240
 msgid "custom membership fee"
@@ -924,8 +1008,12 @@ msgstr ""
 
 #: c3smembership/views/afm.py:259
 #, fuzzy
-msgid "I want to buy the following number of Shares (10 € each, up to 3001 shares, see p≡p coop statute sec. 5)"
-msgstr "I want to buy the following number of Shares (10 € each, up to 3001 shares, see p≡p coop SCE statute sec. 6):"
+msgid ""
+"I want to buy the following number of Shares (10 € each, up to 3001 "
+"shares, see p≡p coop statute sec. 5)"
+msgstr ""
+"I want to buy the following number of Shares (10 € each, up to 3001 "
+"shares, see p≡p coop SCE statute sec. 6):"
 
 #: c3smembership/views/afm.py:262
 #, fuzzy
@@ -952,24 +1040,40 @@ msgstr ""
 msgid "member's bank (BIC)"
 msgstr ""
 
-#: c3smembership/views/afm.py:335
-msgid "I acknowledge that the statutes and membership dues regulations determine periodic contributions for full members."
+#: c3smembership/views/afm.py:319
+msgid "member's bank's name"
 msgstr ""
 
-#: c3smembership/views/afm.py:339
-msgid "An electronic copy of the statute of the C3S SCE has been made available to me (see link below)."
-msgstr "An electronic copy of the statute of the p≡p coop SCE has been made available to me (see link below)."
+#: c3smembership/views/afm.py:341
+msgid ""
+"I acknowledge that the statutes and membership dues regulations determine"
+" periodic contributions for full members."
+msgstr ""
+
+#: c3smembership/views/afm.py:345
+msgid ""
+"An electronic copy of the statute of the C3S SCE has been made available "
+"to me (see link below)."
+msgstr ""
+"An electronic copy of the statute of the p≡p coop SCE has been made "
+"available to me (see link below)."
 
 #: c3smembership/views/afm.py:348
 msgid "You must confirm to have access to the statute."
 msgstr ""
 
-#: c3smembership/views/afm.py:362
-msgid "An electronic copy of the temporary membership dues regulations of the C3S SCE has been made available to me (see link below)."
-msgstr "An electronic copy of the temporary membership dues regulations of the p≡p coop SCE has been made available to me (see link below)."
+#: c3smembership/views/afm.py:368
+msgid ""
+"An electronic copy of the temporary membership dues regulations of the "
+"C3S SCE has been made available to me (see link below)."
+msgstr ""
+"An electronic copy of the temporary membership dues regulations of the "
+"p≡p coop SCE has been made available to me (see link below)."
 
-#: c3smembership/views/afm.py:366
-msgid "You must confirm to have access to the temporary membership dues regulations."
+#: c3smembership/views/afm.py:372
+msgid ""
+"You must confirm to have access to the temporary membership dues "
+"regulations."
 msgstr ""
 
 #: c3smembership/views/afm.py:395
@@ -992,49 +1096,92 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-#: c3smembership/views/afm.py:440
+#: c3smembership/views/afm.py:439
 msgid "please enter IBAN"
 msgstr ""
 
-#: c3smembership/views/afm.py:443
+#: c3smembership/views/afm.py:442
 msgid "please enter BIC"
 msgstr ""
 
-#: c3smembership/views/afm.py:446
+#: c3smembership/views/afm.py:445
 msgid "please enter bank's name"
 msgstr ""
 
-#: c3smembership/views/afm.py:476
+#: c3smembership/views/afm.py:475
 msgid "Please re-enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:712
+#: c3smembership/views/afm.py:714
 msgid "Your email, password, or confirmation code could not be found"
 msgstr ""
 
-#: c3smembership/views/afm.py:717
-msgid "Not found. Check verification URL. If all seems right, please use the form again."
+#: c3smembership/views/afm.py:729
+msgid ""
+"Not found. Check verification URL. If all seems right, please use the "
+"form again."
 msgstr ""
 
-#: c3smembership/views/afm.py:742
+#: c3smembership/views/afm.py:744
 msgid "Wrong Password!"
 msgstr ""
 
-#: c3smembership/views/afm.py:803
+#: c3smembership/views/afm.py:806
 msgid "Success. Load your PDF!"
 msgstr ""
 
-#: c3smembership/views/afm.py:808
+#: c3smembership/views/afm.py:812
 msgid "Please enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:854
+#: c3smembership/views/afm.py:858
 msgid "[yes][ALERT] check the logs!"
 msgstr "[pEp coop][ALERT] check the logs!"
 
 #. Default: message_to_user
-#: c3smembership/views/afm.py:854
-msgid "Oops. we hit a bug. Staff will be informed. We will come back to you once we fixed it!"
+#: c3smembership/views/afm.py:873
+msgid ""
+"Oops. we hit a bug. Staff will be informed. We will come back to you once"
+" we fixed it!"
+msgstr ""
+
+#: customization/customization.py:15
+#, fuzzy
+#| msgid "" "FULL member. Full members have to be natural persons who register
+#| at " "least three works with p≡p coop they created themselves. This applies
+#| to " "composers, lyricists and remixers. They get a vote."
+msgid ""
+"FULL member. Full members have to be natural persons who register at "
+"least three works they created themselves with C3S. This applies to "
+"composers, lyricists and remixers. They get a vote."
+msgstr "SOLLTE NICHT MEHR EXISTIEREN - ."
+
+#: customization/customization.py:36
+msgid "Individual (5 €/mon)"
+msgstr ""
+
+#: customization/customization.py:37
+msgid "Freelancer or small companie ( < 10 employees, 20 €/mon)"
+msgstr ""
+
+#: customization/customization.py:38
+msgid "Companies (>= 10 employees) and high-income freelancers (50 €/mon)"
+msgstr ""
+
+#: customization/customization.py:39
+msgid "Sustaining member: You want to help our cause generously (100 €/mon)"
+msgstr ""
+
+#: customization/customization.py:46
+msgid "Sustaining member - support pEp Cooperative with a minimum of 100 €/mon"
+msgstr ""
+
+#: customization/customization.py:48
+msgid "SEPA Direct Debit"
+msgstr ""
+
+#: customization/customization.py:49
+msgid "Bank Transfer"
 msgstr ""
 
 #~ msgid "join-form-title"
@@ -1084,3 +1231,4 @@ msgstr ""
 
 #~ msgid "Bank Transfer"
 #~ msgstr ""
+

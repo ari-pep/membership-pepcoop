@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: c3smembership 1.20.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-30 19:26+0200\n"
+"POT-Creation-Date: 2018-05-01 12:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -492,11 +492,11 @@ msgstr ""
 msgid "membership-form-title"
 msgstr ""
 
-#: c3smembership/templates/base_bootstrap.pt:51
+#: c3smembership/templates/base_bootstrap.pt:49
 msgid "Contact"
 msgstr ""
 
-#: c3smembership/templates/base_bootstrap.pt:54
+#: c3smembership/templates/base_bootstrap.pt:52
 msgid "Imprint"
 msgstr ""
 
@@ -555,11 +555,11 @@ msgstr ""
 
 #. Default: p≡p coop: confirm your email
 #. Default: p≡p coop: confirm your email address and load your PDF
-#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:634
+#: c3smembership/templates/check-mail.pt:66 c3smembership/views/afm.py:637
 msgid "check-email-paragraph-check-email-subject"
 msgstr ""
 
-#. Default: Join the p≡p coop SCE
+#. Default: Join now!
 #. Default: Join p≡p coop
 #: c3smembership/templates/join.pt:24 c3smembership/templates/verify_password.pt:9
 msgid "join-form-title"
@@ -1027,36 +1027,71 @@ msgstr ""
 msgid "Please re-enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:711
+#: c3smembership/views/afm.py:714
 msgid "Your email, password, or confirmation code could not be found"
 msgstr ""
 
-#: c3smembership/views/afm.py:726
+#: c3smembership/views/afm.py:729
 msgid ""
 "Not found. Check verification URL. If all seems right, please use the form "
 "again."
 msgstr ""
 
-#: c3smembership/views/afm.py:741
+#: c3smembership/views/afm.py:744
 msgid "Wrong Password!"
 msgstr ""
 
-#: c3smembership/views/afm.py:802
+#: c3smembership/views/afm.py:806
 msgid "Success. Load your PDF!"
 msgstr ""
 
-#: c3smembership/views/afm.py:807
+#: c3smembership/views/afm.py:812
 msgid "Please enter your password."
 msgstr ""
 
-#: c3smembership/views/afm.py:853
+#: c3smembership/views/afm.py:858
 msgid "[yes][ALERT] check the logs!"
 msgstr ""
 
 #. Default: message_to_user
-#: c3smembership/views/afm.py:868
+#: c3smembership/views/afm.py:873
 msgid ""
 "Oops. we hit a bug. Staff will be informed. We will come back to you once we "
 "fixed it!"
+msgstr ""
+
+#: customization/customization.py:15
+msgid ""
+"FULL member. Full members have to be natural persons who register at least "
+"three works they created themselves with C3S. This applies to composers, "
+"lyricists and remixers. They get a vote."
+msgstr ""
+
+#: customization/customization.py:36
+msgid "Individual (5 €/mon)"
+msgstr ""
+
+#: customization/customization.py:37
+msgid "Freelancer or small companie ( < 10 employees, 20 €/mon)"
+msgstr ""
+
+#: customization/customization.py:38
+msgid "Companies (>= 10 employees) and high-income freelancers (50 €/mon)"
+msgstr ""
+
+#: customization/customization.py:39
+msgid "Sustaining member: You want to help our cause generously (100 €/mon)"
+msgstr ""
+
+#: customization/customization.py:46
+msgid "Sustaining member - support pEp Cooperative with a minimum of 100 €/mon"
+msgstr ""
+
+#: customization/customization.py:48
+msgid "SEPA Direct Debit"
+msgstr ""
+
+#: customization/customization.py:49
+msgid "Bank Transfer"
 msgstr ""
 
