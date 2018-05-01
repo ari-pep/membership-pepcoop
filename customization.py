@@ -36,7 +36,7 @@ membership_fees = [
     (5,'individual', _(u'Individual (5 €/mon)'),0),
     (20, 'small_com', _(u'Freelancer or small companie ( < 10 employees, 20 €/mon)'),90),
     (50, 'big_com', _(u'Companies (>= 10 employees) and high-income freelancers (50 €/mon)'),90),
-    (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously (100 €/mon)'),0)
+    (100, 'sustaining',_(u'Sustaining member: You want to help our cause generously'),0)
 ]
 
 company_types = ['small_com', 'big_com']
