@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: c3smembership 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-01 16:13+0200\n"
-"PO-Revision-Date: 2018-05-01 16:14+0200\n"
+"PO-Revision-Date: 2018-05-03 13:01+0200\n"
 "Last-Translator: Markus Lorenz <mrks@lrnz.name>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #: c3smembership/accountants_views.py:84 c3smembership/administration.py:532
 #: c3smembership/annual_accounting.py:72 c3smembership/edit_member.py:498
@@ -1055,7 +1055,7 @@ msgstr "Selbständige und kleine Firmen ( < 10 Mitarbeiter, 20 €/mon)"
 
 #: customization/customization.py:38
 msgid "Companies (>= 10 employees) and high-income freelancers (50 €/mon)"
-msgstr "Firmen (>= 10 Mitarbeitende= und Selbstständige mit hohem Einkommen (50 €/mon)"
+msgstr "Firmen (>= 10 Mitarbeitende und Selbständige mit hohem Einkommen (50 €/mon)"
 
 #: customization/customization.py:39
 msgid "Sustaining member: You want to help our cause generously"
