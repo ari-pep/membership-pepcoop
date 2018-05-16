@@ -51,6 +51,8 @@ payment_methods = { 'sdd': _(u'SEPA Direct Debit'),
 
 translations = set(('de','en',))
 
+fn_prefix=u'pEp'
+
 # todo accountant mail
 
 # _() translation does not work for the mail body for some reason, so here:
