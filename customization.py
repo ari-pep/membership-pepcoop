@@ -81,3 +81,5 @@ thanks!
 Your pEp-coop team
             '''
             }
+
+csv_date_format = '%d.%m.%Y'
